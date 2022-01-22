@@ -1,1 +1,1 @@
-Calculadora simples, feita com HTML, CSS e vanilla JavaScript.
+Calculadora feita com HTML, CSS e vanilla JavaScript.
